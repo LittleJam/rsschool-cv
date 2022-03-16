@@ -59,7 +59,7 @@ var stringToNumber = function(str){
     Skyeng (2020-now)
 
 -   _Course «JavaScript/Front-end. Stage 0» (in progress)_<br>
-    RS Schools (now)
+    RS Schools (2022)
 
 ### EXPERIENCE
 
