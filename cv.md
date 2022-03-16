@@ -61,6 +61,12 @@ var stringToNumber = function(str){
 -   _Course «JavaScript/Front-end. Stage 0» (in progress)_<br>
     RS Schools (now)
 
+### EXPERIENCE
+
+---
+
+**CV** https://littlejam.github.io/rsschool-cv/cv
+
 ### LANGUAGES
 
 ---
