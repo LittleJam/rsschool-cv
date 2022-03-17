@@ -107,16 +107,16 @@ ul {
     background-size: cover;
 }
 .contacts_option.mail::before {
-    background-image: url(./assets/img/gmail.png);
+    background-image: url("./assets/img/gmail.png");
 }
 .contacts_option.linkedin::before {
-    background-image: url(./assets/img/linkedin.png);
+    background-image: url("./assets/img/linkedin.png");
 }
 .contacts_option.phone::before {
-    background-image: url(./assets/img/phone.png);
+    background-image: url("./assets/img/phone.png");
 }
 .contacts_option.git::before {
-    background-image: url(./assets/img/git.png);
+    background-image: url("./assets/img/git.png");
 }
 
 .skills_list {
@@ -136,7 +136,7 @@ ul {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(./assets/img/education.png);
+    background-image: url("./assets/img/education.png");
     background-size: cover;
     width: 15px;
     height: 15px;
