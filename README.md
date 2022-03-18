@@ -1,1 +1,3 @@
-# rsschool-cv
+
+https://littlejam/.github.io/rsschool-cv/
+
