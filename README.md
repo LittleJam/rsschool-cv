@@ -1,3 +1,1 @@
-
-https://littlejam/.github.io/rsschool-cv/
-
+https://littlejam.github.io/rsschool-cv/cv
