@@ -21,12 +21,12 @@ I'm QA Engineer with 4+ years experience. Finally, I realize I would like to cre
 
 ---
 
--   HTML<br>
--   CSS <br>
--   Git<br>
--   VS Code<br>
--   Postman<br>
--   Jira, Confluence<br>
+- HTML<br>
+- CSS <br>
+- Git<br>
+- VS Code<br>
+- Postman<br>
+- Jira, Confluence<br>
 
 ### CODE EXAMPLE
 
@@ -46,20 +46,20 @@ var stringToNumber = function(str){
 
 ---
 
--   _Faculty of Business and Management of Technology_<br>
-    Belarusian State University (2011-2016)
+- _Faculty of Business and Management of Technology_<br>
+  Belarusian State University (2011-2016)
 
--   _Business Analysis in Software Development_<br>
-    BelHard (2016)
+- _Business Analysis in Software Development_<br>
+  BelHard (2016)
 
--   _Software Testing Introduction_<br>
-    EPAM Systems (2017)
+- _Software Testing Introduction_<br>
+  EPAM Systems (2017)
 
--   _English course_<br>
-    Skyeng (2020-now)
+- _English course_<br>
+  Skyeng (2020-now)
 
--   _Course «JavaScript/Front-end. Stage 0» (in progress)_<br>
-    RS Schools (2022)
+- _Course «JavaScript/Front-end. Stage 0»_<br>
+  RS Schools (2022)
 
 ### EXPERIENCE
 
@@ -71,5 +71,5 @@ var stringToNumber = function(str){
 
 ---
 
--   English – Upper-Intermediate
--   Russian - Native
+- English – Upper-Intermediate
+- Russian - Native
